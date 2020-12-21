@@ -13,7 +13,11 @@ The Go Fish card game played between two human players.
 **Usage**
 
 **Compile**
+```
 $ g++ -o play Card.cpp Player.cpp main.cpp
+```
 
 **Execute**
+```
 $ ./play
+```
